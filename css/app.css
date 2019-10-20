@@ -193,3 +193,7 @@ footer {
     width: 1px;
     white-space: nowrap;
 }
+
+body {
+    background-color: #00cae4;
+}
